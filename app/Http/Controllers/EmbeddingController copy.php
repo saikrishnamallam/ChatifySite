@@ -34,6 +34,7 @@ class EmbeddingController extends Controller
                 ServerEvent::send("Start crawling: {$url}");
                 $markdown = $this->scraper->handle($url);
                 $tokens = $this->tokenizer->tokenize($markdown, 256);
+                con
 
                 $title = $this->scraper->title;
                 $count = count($tokens);

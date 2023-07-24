@@ -12,7 +12,11 @@
         "laravel/tinker": "^2.8",
         "league/html-to-markdown": "^5.1",
         "openai-php/laravel": "^0.4.3",
-        "symfony/dom-crawler": "^6.2"
+        "setasign/fpdi": "^2.3",
+        "setasign/fpdi-tcpdf": "^2.3",
+        "spatie/pdf-to-text": "^1.52",
+        "symfony/dom-crawler": "^6.2",
+        "tecnickcom/tcpdf": "^6.6"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",

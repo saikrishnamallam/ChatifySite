@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>ChatifySite</title>
+    <title>askSite</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -20,7 +20,7 @@
         <div class="relative items-center w-full px-5 mx-auto max-w-7xl md:px-12">
             <div>
                 <div class="text-center">
-                    <p class="w-auto"><a href="/" class="font-semibold text-[#4354ff] text-sm uppercase">ChatifySite</a></p>
+                    <p class="w-auto"><a href="/" class="font-semibold text-[#4354ff] text-sm uppercase">askSite</a></p>
                     <p class="mt-8 text-3xl font-extrabold tracking-tight text-black md:text-5xl">
                         Turn Websites into Intelligent<br />Chatbot Conversations
                     </p>
